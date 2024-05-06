@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\u200b\\u3000\\-\u3001\u3002\uff0c\uff0e\uff1f\uff01\uff1b]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"Welcome !","text":"<p>\u8fd9\u91cc\u662f\u6211\u7684\u4e2a\u4eba\u4e3b\u9875\uff01</p> <p>\u7f51\u7ad9\u624d\u521a\u5f00\u59cb\u5f00\u53d1\uff0c\u522b\u6025\uff01</p>"}]}
