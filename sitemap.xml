@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://YaoqxCN.github.io/site/</loc>
-         <lastmod>2024-05-08</lastmod>
+         <lastmod>2024-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://YaoqxCN.github.io/site/guide/</loc>
-         <lastmod>2024-05-08</lastmod>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://YaoqxCN.github.io/site/profile/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://YaoqxCN.github.io/site/Blog/</loc>
+         <lastmod>2024-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://YaoqxCN.github.io/site/Blog/C%2B%2B/</loc>
-         <lastmod>2024-05-08</lastmod>
+         <lastmod>2024-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
